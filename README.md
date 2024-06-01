@@ -1,5 +1,5 @@
 # MW3-Cheat-Menu
-A simple cheat menu I made in C# using ImGui.NET and Swed32 for Modern Warfare 3 (2011) using the Imgui.NET and Swed32 library.
+A simple cheat menu I made in C# using ImGui.NET and Swed32 for Modern Warfare 3 (2011).
 <br />
 <br />
 <br />
